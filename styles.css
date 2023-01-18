@@ -1,0 +1,41 @@
+body{
+    background-color: pink;
+    margin: 80px;
+    width: 350px;
+    height: 350px;
+    
+    
+    ;
+ }
+div{
+    background-color: aliceblue;
+    border: solid 30px;
+    color: rgb(253, 129, 150);
+    width: 1000px;
+    height: 1500px;
+   
+}
+
+h1{
+    color: red;
+    font-size: 8em;
+
+}
+h4{
+    color:  green;
+    margin: 0;
+    font-size: 4em;
+}
+a{
+    font-size: 30em;
+    margin-left: 170px;
+}
+h2{
+    font-size: 4em;
+
+
+}
+p{
+    font-size: 3em;
+
+}
